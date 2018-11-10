@@ -1,0 +1,938 @@
+2018-02-19 13:18:20,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:20,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:20,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:20,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:20,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:20,092 INFO  [Log] Loading properties file 
+2018-02-19 13:18:20,098 INFO  [Log] Start class 
+2018-02-19 13:18:20,098 INFO  [Log] Setting the data engine object 
+2018-02-19 13:18:21,091 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,091 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,091 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,091 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,092 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:21,093 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:21,094 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:21,094 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:25,612 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:18:25,612 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-02-19 13:18:25,612 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:18:27,893 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:18:32,961 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-02-19 13:18:32,969 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:18:32,969 INFO  [Log] X 
+2018-02-19 13:18:32,969 INFO  [Log] X 
+2018-02-19 13:18:32,969 INFO  [Log] X 
+2018-02-19 13:18:32,969 INFO  [Log] X 
+2018-02-19 13:18:32,990 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:32,991 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:32,991 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:32,991 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:32,991 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:32,995 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:34,868 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:18:35,416 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.78 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Sathya\AppData\Local\Temp\scoped_dir18176_10983}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6d0e7a95b661b387ce5900aef200e349 
+2018-02-19 13:18:35,422 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:18:35,423 INFO  [Log] X 
+2018-02-19 13:18:35,423 INFO  [Log] X 
+2018-02-19 13:18:35,423 INFO  [Log] X 
+2018-02-19 13:18:35,423 INFO  [Log] X 
+2018-02-19 13:18:35,424 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:35,425 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:35,425 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:35,425 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:35,425 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:35,427 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:36,513 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:18:37,313 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.10 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Sathya\AppData\Local\Temp\scoped_dir15356_2350}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 67a5e82031780e7e8faa4bae9432f276 
+2018-02-19 13:18:37,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:18:37,401 INFO  [Log] X 
+2018-02-19 13:18:37,401 INFO  [Log] X 
+2018-02-19 13:18:37,401 INFO  [Log] X 
+2018-02-19 13:18:37,401 INFO  [Log] X 
+2018-02-19 13:18:37,402 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:37,403 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:37,403 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:37,403 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:37,403 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:37,405 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:39,921 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:18:46,059 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:18:51,498 ERROR [Log] Error redirecting browser | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14.98 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Sathya\AppData\Local\Temp\scoped_dir20396_7477}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 76ec0b6dc0d40a790da2f5d688c43bf6 
+2018-02-19 13:18:51,500 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:18:51,501 INFO  [Log] X 
+2018-02-19 13:18:51,501 INFO  [Log] X 
+2018-02-19 13:18:51,501 INFO  [Log] X 
+2018-02-19 13:18:51,501 INFO  [Log] X 
+2018-02-19 13:18:51,502 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:51,502 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:51,502 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:51,502 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:51,502 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:51,504 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:54,367 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:18:55,788 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.87 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Sathya\AppData\Local\Temp\scoped_dir19336_30915}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: aab5d960eff156a6df85d16ea15a76c9 
+2018-02-19 13:18:55,801 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:18:55,801 INFO  [Log] X 
+2018-02-19 13:18:55,801 INFO  [Log] X 
+2018-02-19 13:18:55,801 INFO  [Log] X 
+2018-02-19 13:18:55,802 INFO  [Log] X 
+2018-02-19 13:18:55,806 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:55,806 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:55,806 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:55,806 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:55,806 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:55,809 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:56,394 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:18:57,672 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:18:59,531 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-02-19 13:18:59,536 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:18:59,537 INFO  [Log] X 
+2018-02-19 13:18:59,537 INFO  [Log] X 
+2018-02-19 13:18:59,537 INFO  [Log] X 
+2018-02-19 13:18:59,537 INFO  [Log] X 
+2018-02-19 13:18:59,540 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:59,540 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:59,540 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:18:59,540 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:59,540 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:18:59,544 INFO  [Log] Launching browser in local 
+2018-02-19 13:18:59,719 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:19:00,788 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:19:02,817 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-02-19 13:19:02,822 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:19:02,822 INFO  [Log] X 
+2018-02-19 13:19:02,822 INFO  [Log] X 
+2018-02-19 13:19:02,822 INFO  [Log] X 
+2018-02-19 13:19:02,822 INFO  [Log] X 
+2018-02-19 13:19:02,824 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:19:02,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:19:02,825 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:19:02,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:19:02,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:19:02,828 INFO  [Log] Launching browser in local 
+2018-02-19 13:19:04,429 ERROR [Log] Error launching browser | Exception Description - session not created exception
+from chrome not reachable
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.33 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: ChromeDriver 
+2018-02-19 13:19:04,433 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:19:04,433 INFO  [Log] X 
+2018-02-19 13:19:04,433 INFO  [Log] X 
+2018-02-19 13:19:04,433 INFO  [Log] X 
+2018-02-19 13:19:04,433 INFO  [Log] X 
+2018-02-19 13:19:05,180 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:19:05,904 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-02-19 13:19:05,907 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:19:05,908 INFO  [Log] X 
+2018-02-19 13:19:05,908 INFO  [Log] X 
+2018-02-19 13:19:05,908 INFO  [Log] X 
+2018-02-19 13:19:05,908 INFO  [Log] X 
+2018-02-19 13:19:08,280 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.10 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\Sathya\AppData\Local\Temp\scoped_dir20052_15710}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 52684900a9a7c56914ab51c16c987880 
+2018-02-19 13:19:08,282 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:19:08,282 INFO  [Log] X 
+2018-02-19 13:19:08,283 INFO  [Log] X 
+2018-02-19 13:19:08,283 INFO  [Log] X 
+2018-02-19 13:19:08,283 INFO  [Log] X 
+2018-02-19 13:19:08,284 INFO  [Log] Saving the result 
+2018-02-19 13:36:30,071 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:30,071 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:30,071 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:30,071 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:30,072 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:30,072 INFO  [Log] Loading properties file 
+2018-02-19 13:36:30,081 INFO  [Log] Start class 
+2018-02-19 13:36:30,081 INFO  [Log] Setting the data engine object 
+2018-02-19 13:36:31,043 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,043 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,043 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,043 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,044 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:31,045 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:31,046 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:31,046 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:34,711 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-02-19 13:36:34,711 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:34,711 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:37,750 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.02 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir7272_8275}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 97a096f669c8a3c41c6f1d920b4161e6 
+2018-02-19 13:36:37,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:37,754 INFO  [Log] X 
+2018-02-19 13:36:37,754 INFO  [Log] X 
+2018-02-19 13:36:37,754 INFO  [Log] X 
+2018-02-19 13:36:37,754 INFO  [Log] X 
+2018-02-19 13:36:37,767 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:37,767 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:37,767 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:37,767 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:37,767 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:37,769 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:38,008 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.30 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir8528_27802}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 082ab2a82ae6b0128a8a15b626ed0dd7 
+2018-02-19 13:36:38,010 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:38,010 INFO  [Log] X 
+2018-02-19 13:36:38,010 INFO  [Log] X 
+2018-02-19 13:36:38,010 INFO  [Log] X 
+2018-02-19 13:36:38,010 INFO  [Log] X 
+2018-02-19 13:36:38,011 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:38,011 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:38,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:38,011 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:38,011 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:38,013 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:40,431 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:41,078 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:41,407 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:36:43,348 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.72 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir17692_15506}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: c56478c21b3d24d1c1b3f546117694cd 
+2018-02-19 13:36:43,352 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:43,352 INFO  [Log] X 
+2018-02-19 13:36:43,352 INFO  [Log] X 
+2018-02-19 13:36:43,352 INFO  [Log] X 
+2018-02-19 13:36:43,352 INFO  [Log] X 
+2018-02-19 13:36:43,354 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:43,354 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:43,354 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:43,354 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:43,354 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:43,356 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:44,263 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.83 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir3260_20962}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7e094a275a3717953fcbb7639d2704b8 
+2018-02-19 13:36:44,274 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:44,275 INFO  [Log] X 
+2018-02-19 13:36:44,275 INFO  [Log] X 
+2018-02-19 13:36:44,275 INFO  [Log] X 
+2018-02-19 13:36:44,275 INFO  [Log] X 
+2018-02-19 13:36:44,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:44,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:44,276 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:44,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:44,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:44,279 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:45,232 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.15 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir16304_9122}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 98442edf327b7284a38f01226a02dd33 
+2018-02-19 13:36:45,248 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:45,249 INFO  [Log] X 
+2018-02-19 13:36:45,249 INFO  [Log] X 
+2018-02-19 13:36:45,249 INFO  [Log] X 
+2018-02-19 13:36:45,249 INFO  [Log] X 
+2018-02-19 13:36:45,253 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:45,253 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:45,253 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:45,253 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:45,253 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:45,255 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:45,885 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:47,512 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:49,312 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:36:49,975 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:36:53,241 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7.36 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir20648_20188}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2d2e30a739f62637546fede66c0c09d1 
+2018-02-19 13:36:53,244 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:53,244 INFO  [Log] X 
+2018-02-19 13:36:53,244 INFO  [Log] X 
+2018-02-19 13:36:53,244 INFO  [Log] X 
+2018-02-19 13:36:53,244 INFO  [Log] X 
+2018-02-19 13:36:53,245 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:53,245 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:53,245 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:53,245 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:53,245 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:53,247 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:55,726 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.41 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir21860_20999}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: ca19001d69736e7659d9bb22e8d16fde 
+2018-02-19 13:36:55,731 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:36:55,731 INFO  [Log] X 
+2018-02-19 13:36:55,731 INFO  [Log] X 
+2018-02-19 13:36:55,731 INFO  [Log] X 
+2018-02-19 13:36:55,731 INFO  [Log] X 
+2018-02-19 13:36:55,733 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:55,733 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:55,733 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:36:55,734 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:55,734 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:36:55,736 INFO  [Log] Launching browser in local 
+2018-02-19 13:36:58,314 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:36:59,538 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:37:06,853 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7.31 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir7196_14354}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 53e34f13f8f36e690e9b5106bd59c430 
+2018-02-19 13:37:06,857 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:37:06,857 INFO  [Log] X 
+2018-02-19 13:37:06,857 INFO  [Log] X 
+2018-02-19 13:37:06,857 INFO  [Log] X 
+2018-02-19 13:37:06,857 INFO  [Log] X 
+2018-02-19 13:37:08,687 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.37 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir23196_7117}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e68010c1d4a5f7b18ef960fd112c034a 
+2018-02-19 13:37:08,690 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:37:08,690 INFO  [Log] X 
+2018-02-19 13:37:08,690 INFO  [Log] X 
+2018-02-19 13:37:08,690 INFO  [Log] X 
+2018-02-19 13:37:08,691 INFO  [Log] X 
+2018-02-19 13:38:04,792 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-02-19 13:38:04,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:38:04,797 INFO  [Log] X 
+2018-02-19 13:38:04,797 INFO  [Log] X 
+2018-02-19 13:38:04,797 INFO  [Log] X 
+2018-02-19 13:38:04,797 INFO  [Log] X 
+2018-02-19 13:38:04,799 INFO  [Log] Saving the result 
+2018-02-19 13:40:18,677 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:18,677 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:18,678 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:18,678 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:18,678 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:18,678 INFO  [Log] Loading properties file 
+2018-02-19 13:40:18,688 INFO  [Log] Start class 
+2018-02-19 13:40:18,688 INFO  [Log] Setting the data engine object 
+2018-02-19 13:40:19,653 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,653 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,654 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,655 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,655 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:19,655 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,655 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:19,656 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:19,657 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:19,658 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:23,048 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:23,051 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:23,071 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-02-19 13:40:26,233 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.16 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir21436_25293}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 59176cfd602167f251b02281ae4c9366 
+2018-02-19 13:40:26,241 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:26,241 INFO  [Log] X 
+2018-02-19 13:40:26,241 INFO  [Log] X 
+2018-02-19 13:40:26,241 INFO  [Log] X 
+2018-02-19 13:40:26,241 INFO  [Log] X 
+2018-02-19 13:40:26,255 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,255 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,256 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:26,256 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,256 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,259 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:26,296 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.25 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir21008_12397}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 206e82b3a8b881c005596ad1e638e983 
+2018-02-19 13:40:26,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:26,300 INFO  [Log] X 
+2018-02-19 13:40:26,300 INFO  [Log] X 
+2018-02-19 13:40:26,300 INFO  [Log] X 
+2018-02-19 13:40:26,300 INFO  [Log] X 
+2018-02-19 13:40:26,302 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,302 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,302 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:26,302 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,302 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:26,305 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:28,565 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:28,651 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:40:29,128 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:30,061 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.27 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir21228_32417}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8bd7bff01b8372940d206c8698b5e5eb 
+2018-02-19 13:40:30,063 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:30,063 INFO  [Log] X 
+2018-02-19 13:40:30,063 INFO  [Log] X 
+2018-02-19 13:40:30,063 INFO  [Log] X 
+2018-02-19 13:40:30,063 INFO  [Log] X 
+2018-02-19 13:40:30,064 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:30,064 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:30,064 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:30,064 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:30,064 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:30,066 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:32,269 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.70 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir23240_16170}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 1030e52c57f3aa0c539a37226c6c948a 
+2018-02-19 13:40:32,273 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:32,273 INFO  [Log] X 
+2018-02-19 13:40:32,273 INFO  [Log] X 
+2018-02-19 13:40:32,273 INFO  [Log] X 
+2018-02-19 13:40:32,273 INFO  [Log] X 
+2018-02-19 13:40:32,275 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,275 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,275 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:32,275 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,275 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,276 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:32,513 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:32,877 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.75 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir18208_31404}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: ae167f159e32f6e0ffa075ce6b498bdc 
+2018-02-19 13:40:32,880 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:32,880 INFO  [Log] X 
+2018-02-19 13:40:32,881 INFO  [Log] X 
+2018-02-19 13:40:32,881 INFO  [Log] X 
+2018-02-19 13:40:32,881 INFO  [Log] X 
+2018-02-19 13:40:32,882 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,882 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,882 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:32,882 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,882 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:32,884 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:34,892 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:35,927 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:40:38,914 ERROR [Log] Error redirecting browser | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.40 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir21516_7968}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a5645fdbee7bed41e29dad7cc070f519 
+2018-02-19 13:40:38,917 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:38,917 INFO  [Log] X 
+2018-02-19 13:40:38,917 INFO  [Log] X 
+2018-02-19 13:40:38,917 INFO  [Log] X 
+2018-02-19 13:40:38,917 INFO  [Log] X 
+2018-02-19 13:40:38,919 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:38,919 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:38,920 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:38,920 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:38,920 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:38,923 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:39,986 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:40:40,213 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.32 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir17884_31060}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2a92fb4e1f6026a40ddab968bc00defd 
+2018-02-19 13:40:40,215 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:40,215 INFO  [Log] X 
+2018-02-19 13:40:40,215 INFO  [Log] X 
+2018-02-19 13:40:40,215 INFO  [Log] X 
+2018-02-19 13:40:40,215 INFO  [Log] X 
+2018-02-19 13:40:40,216 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:40,216 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:40,217 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:40:40,217 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:40,217 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:40:40,218 INFO  [Log] Launching browser in local 
+2018-02-19 13:40:41,685 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:40:43,303 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:40:46,877 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.19 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir23984_12313}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: dca117536a15c32a466ed1b8a97b86ae 
+2018-02-19 13:40:46,880 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:46,880 INFO  [Log] X 
+2018-02-19 13:40:46,880 INFO  [Log] X 
+2018-02-19 13:40:46,880 INFO  [Log] X 
+2018-02-19 13:40:46,880 INFO  [Log] X 
+2018-02-19 13:40:48,015 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.71 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir21604_18829}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 940989ce5871446c1f2db915bc87bf96 
+2018-02-19 13:40:48,018 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:48,018 INFO  [Log] X 
+2018-02-19 13:40:48,018 INFO  [Log] X 
+2018-02-19 13:40:48,019 INFO  [Log] X 
+2018-02-19 13:40:48,019 INFO  [Log] X 
+2018-02-19 13:40:49,821 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-02-19 13:40:49,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:40:49,824 INFO  [Log] X 
+2018-02-19 13:40:49,824 INFO  [Log] X 
+2018-02-19 13:40:49,824 INFO  [Log] X 
+2018-02-19 13:40:49,824 INFO  [Log] X 
+2018-02-19 13:40:49,826 INFO  [Log] Saving the result 
+2018-02-19 13:41:55,275 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:55,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:55,276 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:41:55,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:55,276 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:55,276 INFO  [Log] Loading properties file 
+2018-02-19 13:41:55,286 INFO  [Log] Start class 
+2018-02-19 13:41:55,286 INFO  [Log] Setting the data engine object 
+2018-02-19 13:41:56,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,826 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,825 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:41:56,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:41:56,826 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,827 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,826 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,827 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:41:56,826 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,827 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,827 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,827 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:41:56,830 INFO  [Log] Launching browser in local 
+2018-02-19 13:41:56,830 INFO  [Log] Launching browser in local 
+2018-02-19 13:41:56,831 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:01,072 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:01,072 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-02-19 13:42:01,072 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:05,141 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:42:05,207 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.09 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir24524_4383}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 3b8dd4056aeca4cf8c91d961f994bcdf 
+2018-02-19 13:42:05,218 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:42:05,219 INFO  [Log] X 
+2018-02-19 13:42:05,219 INFO  [Log] X 
+2018-02-19 13:42:05,219 INFO  [Log] X 
+2018-02-19 13:42:05,219 INFO  [Log] X 
+2018-02-19 13:42:05,271 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,272 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,272 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:05,272 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,272 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,281 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:05,376 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.30 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir20496_23919}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6853ed607411d8ce6dc759a6a4a414da 
+2018-02-19 13:42:05,380 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:42:05,380 INFO  [Log] X 
+2018-02-19 13:42:05,380 INFO  [Log] X 
+2018-02-19 13:42:05,382 INFO  [Log] X 
+2018-02-19 13:42:05,382 INFO  [Log] X 
+2018-02-19 13:42:05,383 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,384 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,384 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:05,384 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,384 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:05,386 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:07,779 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.29 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir5116_5166}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4eccb78735e441064ccd62ad39ad21ac 
+2018-02-19 13:42:07,783 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:42:07,783 INFO  [Log] X 
+2018-02-19 13:42:07,784 INFO  [Log] X 
+2018-02-19 13:42:07,784 INFO  [Log] X 
+2018-02-19 13:42:07,784 INFO  [Log] X 
+2018-02-19 13:42:07,785 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:07,786 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:07,786 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:07,786 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:07,786 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:07,788 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:07,859 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:08,763 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:10,567 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:12,336 INFO  [Log] Entering data - kid123@gmail.com 
+2018-02-19 13:42:50,278 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:50,281 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:50,281 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:50,281 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:50,281 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:50,281 INFO  [Log] Loading properties file 
+2018-02-19 13:42:50,303 INFO  [Log] Start class 
+2018-02-19 13:42:50,303 INFO  [Log] Setting the data engine object 
+2018-02-19 13:42:51,695 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,695 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,695 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:51,696 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,696 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,695 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,696 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,695 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,696 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:51,696 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,696 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,696 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,697 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:51,697 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,697 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:51,698 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:51,698 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:51,700 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:55,727 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-02-19 13:42:55,728 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:55,875 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:42:59,040 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.29 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir10380_11716}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e9da959f40c90d22e85f683ec38e824f 
+2018-02-19 13:42:59,048 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:42:59,048 INFO  [Log] X 
+2018-02-19 13:42:59,048 INFO  [Log] X 
+2018-02-19 13:42:59,048 INFO  [Log] X 
+2018-02-19 13:42:59,048 INFO  [Log] X 
+2018-02-19 13:42:59,082 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,082 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,082 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:59,082 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,083 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,095 INFO  [Log] Launching browser in local 
+2018-02-19 13:42:59,571 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.70 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir23260_31154}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2559f9b374711aeddb7eb7fc9407bfb2 
+2018-02-19 13:42:59,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:42:59,576 INFO  [Log] X 
+2018-02-19 13:42:59,576 INFO  [Log] X 
+2018-02-19 13:42:59,576 INFO  [Log] X 
+2018-02-19 13:42:59,576 INFO  [Log] X 
+2018-02-19 13:42:59,578 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,578 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,578 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:42:59,578 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,578 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:42:59,581 INFO  [Log] Launching browser in local 
+2018-02-19 13:43:01,753 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:43:02,220 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:43:03,464 INFO  [Log] Clicking on a webelement 
+2018-02-19 13:43:05,608 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.03 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir23736_11174}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a762b43e2955066711eed902c63358d9 
+2018-02-19 13:43:05,611 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:05,611 INFO  [Log] X 
+2018-02-19 13:43:05,611 INFO  [Log] X 
+2018-02-19 13:43:05,611 INFO  [Log] X 
+2018-02-19 13:43:05,611 INFO  [Log] X 
+2018-02-19 13:43:05,613 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:05,613 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:05,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:43:05,614 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:05,614 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:05,616 INFO  [Log] Launching browser in local 
+2018-02-19 13:43:06,241 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.49 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir18244_29151}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8ff5c8e53cb801a48a79f73c2ef92194 
+2018-02-19 13:43:06,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:06,246 INFO  [Log] X 
+2018-02-19 13:43:06,246 INFO  [Log] X 
+2018-02-19 13:43:06,246 INFO  [Log] X 
+2018-02-19 13:43:06,246 INFO  [Log] X 
+2018-02-19 13:43:06,248 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,248 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,248 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:43:06,248 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,248 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,251 INFO  [Log] Launching browser in local 
+2018-02-19 13:43:06,709 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.49 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir19568_32693}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7bac71b3e23c0c7fd4cbff07b45684ff 
+2018-02-19 13:43:06,713 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:06,714 INFO  [Log] X 
+2018-02-19 13:43:06,714 INFO  [Log] X 
+2018-02-19 13:43:06,714 INFO  [Log] X 
+2018-02-19 13:43:06,714 INFO  [Log] X 
+2018-02-19 13:43:06,715 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,715 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,715 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:43:06,715 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,716 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:06,717 INFO  [Log] Launching browser in local 
+2018-02-19 13:43:08,471 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:43:09,698 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:43:10,818 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-02-19 13:43:14,799 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.33 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir22884_13502}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 31e3e6d6b41037b40e49007304961fdc 
+2018-02-19 13:43:14,802 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:14,802 INFO  [Log] X 
+2018-02-19 13:43:14,802 INFO  [Log] X 
+2018-02-19 13:43:14,802 INFO  [Log] X 
+2018-02-19 13:43:14,802 INFO  [Log] X 
+2018-02-19 13:43:14,804 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:14,804 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:14,804 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:43:14,804 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:14,804 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:14,806 INFO  [Log] Launching browser in local 
+2018-02-19 13:43:15,573 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.87 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir4884_19036}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 63f966a4a006f30044563fb0a458f16f 
+2018-02-19 13:43:15,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:15,577 INFO  [Log] X 
+2018-02-19 13:43:15,577 INFO  [Log] X 
+2018-02-19 13:43:15,577 INFO  [Log] X 
+2018-02-19 13:43:15,577 INFO  [Log] X 
+2018-02-19 13:43:15,578 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:15,579 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:15,579 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-02-19 13:43:15,579 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:15,579 INFO  [Log] **************************************************************************************** 
+2018-02-19 13:43:15,581 INFO  [Log] Launching browser in local 
+2018-02-19 13:43:17,229 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6.41 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir24280_20244}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 457cd1ad834e1d97a662060cf21250d6 
+2018-02-19 13:43:17,236 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:17,236 INFO  [Log] X 
+2018-02-19 13:43:17,236 INFO  [Log] X 
+2018-02-19 13:43:17,236 INFO  [Log] X 
+2018-02-19 13:43:17,236 INFO  [Log] X 
+2018-02-19 13:43:19,475 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:43:20,801 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-02-19 13:43:24,964 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.49 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir20004_26230}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: fae66dbc3a3d91f3390f7809ad406671 
+2018-02-19 13:43:24,969 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:24,970 INFO  [Log] X 
+2018-02-19 13:43:24,970 INFO  [Log] X 
+2018-02-19 13:43:24,970 INFO  [Log] X 
+2018-02-19 13:43:24,970 INFO  [Log] X 
+2018-02-19 13:43:25,122 ERROR [Log] Error redirecting browser | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.32 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-QDGOE72', ip: '192.168.2.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\WINDOWS\TEMP\scoped_dir10580_24556}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.167, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 8218737ea7609dbd3b27aff3ea7c5aa1 
+2018-02-19 13:43:25,125 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-02-19 13:43:25,126 INFO  [Log] X 
+2018-02-19 13:43:25,126 INFO  [Log] X 
+2018-02-19 13:43:25,126 INFO  [Log] X 
+2018-02-19 13:43:25,126 INFO  [Log] X 
+2018-02-19 13:43:25,129 INFO  [Log] Saving the result 
